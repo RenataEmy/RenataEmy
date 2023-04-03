@@ -1,5 +1,5 @@
     Olá, eu sou Renata!!!
-- 👩‍🎓 Atualmente estudo no IFRN cursando o técnico em informática.
+- 👩‍🎓 Técnica em Informática - IFRN 
 - 🗃️ Tenho experiência em Java, C++, Python, HTML e CSS.
 - 🖥️ Área de interesse: Desenvolvimento Web.
 - 📚 Aprendendo Django e JavaScript.  
