@@ -1,4 +1,5 @@
     Olá, eu sou Renata!!!
+- 🖥️ Cursando Análise e Desenvolvimento de Sistemas - IFRN
 - 👩‍🎓 Técnica em Informática - IFRN 
 - 🗃️ Tenho experiência em Java, C++, Python, HTML e CSS.
 - 🖥️ Área de interesse: Desenvolvimento Web.
